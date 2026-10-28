@@ -1,7 +1,7 @@
 ## Name
 
 <p align="center">
-  <img src="https://github.com/7NK01/7NK01/blob/0fad670398fa3ae6a11485cd294ce14c25cb643c/D.gif" />
+  <img src="https://raw.githubusercontent.com/7NK01/7NK01/main/D.gif" />
 </p>
 
 <!--
