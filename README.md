@@ -1,6 +1,4 @@
-## I use Arch btw
-
-## Neovim btw
+# Neovim btw
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/7NK01/7NK01/main/D.gif" width="640"/>
